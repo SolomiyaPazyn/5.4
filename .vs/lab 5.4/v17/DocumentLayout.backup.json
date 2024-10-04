@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\programming\\labor 5.4\\lab 5.4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F17E49E1-22A1-479A-95D9-A4A1214A954A}|UnitTest5.4\\UnitTest5.4.vcxproj|D:\\programming\\labor 5.4\\lab 5.4\\UnitTest5.4\\UnitTest5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F17E49E1-22A1-479A-95D9-A4A1214A954A}|UnitTest5.4\\UnitTest5.4.vcxproj|solutionrelative:UnitTest5.4\\UnitTest5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FA0E4C4-789C-4C4E-888B-75F2C05B5D00}|lab 5.4.vcxproj|D:\\programming\\labor 5.4\\lab 5.4\\lab 5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9FA0E4C4-789C-4C4E-888B-75F2C05B5D00}|lab 5.4.vcxproj|solutionrelative:lab 5.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest5.4.cpp",
+              "DocumentMoniker": "D:\\programming\\labor 5.4\\lab 5.4\\UnitTest5.4\\UnitTest5.4.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.4\\UnitTest5.4.cpp",
+              "ToolTip": "D:\\programming\\labor 5.4\\lab 5.4\\UnitTest5.4\\UnitTest5.4.cpp",
+              "RelativeToolTip": "UnitTest5.4\\UnitTest5.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T19:41:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab 5.4.cpp",
               "DocumentMoniker": "D:\\programming\\labor 5.4\\lab 5.4\\lab 5.4.cpp",
               "RelativeDocumentMoniker": "lab 5.4.cpp",
-              "ToolTip": "D:\\programming\\labor 5.4\\lab 5.4\\lab 5.4.cpp*",
-              "RelativeToolTip": "lab 5.4.cpp*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\programming\\labor 5.4\\lab 5.4\\lab 5.4.cpp",
+              "RelativeToolTip": "lab 5.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-04T19:36:25.851Z",
               "EditorCaption": ""
